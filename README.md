@@ -10,4 +10,6 @@ https://public.tableau.com/profile/howie.qian
 
 ![Screen Shot 2019-04-20 at 10 48 50 PM](https://user-images.githubusercontent.com/44904887/56465665-24dedf00-63bf-11e9-9f45-3479a23d10b4.png)
 
+![FieldCentres](https://user-images.githubusercontent.com/44904887/56672147-26383200-6673-11e9-9bce-3317119cbadb.PNG)
+
 
