@@ -1,5 +1,5 @@
 # Projects
-The Energy Resources Conservation Board released an open data for pipeline incident in Alberta between 1975 to 2013. Few records prior to 1975 exist but may not be accurate according to Global News. The nice looking graphs and charts are displayed here on Tableau Public
+The Energy Resources Conservation Board released an open data for pipeline incident in Alberta between 1975 to 2013. Few records prior to 1975 exist but may not be accurate according to Global News. Data visualization and charts are displayed here on Tableau Public
 https://public.tableau.com/profile/howie.qian  Please click the above link PipelineSpillsAB.ipynb to see the analysis of this dataset.
 
 ![Screen Shot 2019-04-20 at 10 51 40 PM](https://user-images.githubusercontent.com/44904887/56465658-e9441500-63be-11e9-8cf7-ddbc729003d9.png)
